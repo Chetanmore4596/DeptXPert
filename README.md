@@ -27,6 +27,8 @@ It is designed to help college departments manage **students, teachers, and depa
 
 ### https://drive.google.com/file/d/1FM1XMQZoyZ5LNlZM3KaPGZrCxRRc1EM3/view
 
+### Use DeptXPert.sql file for database 
+
 ---
 
 ## 🔹 Project Structure
