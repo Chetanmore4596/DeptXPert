@@ -67,5 +67,6 @@ It helps college departments efficiently manage **students, teachers, and depart
 ## 👨‍💻 About  
 
 🎓 *Diploma Final Year Project (2024)*  
-👨‍💻 Developed by **Chetan More** & **Team** 🔗 [LinkedIn](https://www.linkedin.com/in/chetan-more4596/)
+👨‍💻 Developed by **Chetan More** & **Team** 
 (Sahil Jadhav, Shubham Gaikwad, Shriyash Todkari)  
+🔗 [LinkedIn](https://www.linkedin.com/in/chetan-more4596/)
